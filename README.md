@@ -5,7 +5,7 @@ This App  was developed using React. It is intended to allow an employer to sear
 No installation necessary, simply view it on Github at: https://drewbassett24.github.io/employee-directory/
 
 ##Screenshot
-![Screenshot of app](public/screenshot.png "Employee Directory in action")
+![Screenshot of app](public/Screenshot.png "Employee Directory in action")
 
 ##Software/technology
 Javascript and React. Created via Node.
