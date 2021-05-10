@@ -2,7 +2,7 @@
 ## The App
 This App  was developed using React. It is intended to allow an employer to search his employee list using a Random User API. It can search by name and sort details with 'a click of the column'.
 ##Installation
-No installation necessary, simply view it on Github at: https://drwebassett24.github.io/employee-directory/
+No installation necessary, simply view it on Github at: https://drewbassett24.github.io/employee-directory/
 
 ##Screenshot
 
